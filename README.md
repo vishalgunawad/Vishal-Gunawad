@@ -5,6 +5,9 @@ My personal repository.
 <h1 align="center">Hi 👋, I'm Vishal Gunawad</h1>
 <h3 align="center">I am undergraduate student pursuing B.Tech. in Information Technology. Passionate about programming and full stack development. Also good at problem solving skills, interpersonal skills for working in a team and successfully completing a project.</h3>
 
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*L_QoAG863l8QvqxpNyBiqw.gif">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalgunawad&label=Profile%20views&color=0e75b6&style=flat" alt="vishalgunawad" /> </p>
 
 - 🔭 I’m currently **a student**
