@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **react, express , nodejs , jaascript , java**
+- 💬 Ask me about **react, express , nodejs , javascript , java**
 
 - 📫 How to reach me **vishalgunawad@gmail.com**
 
